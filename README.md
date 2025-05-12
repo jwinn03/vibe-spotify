@@ -1,6 +1,6 @@
 # Vibe Spotify
 
-A VS Code extension that allows you to control Spotify playback directly from your editor.
+A VS Code extension that allows control of Spotify playback directly from the editor status bar.
 
 ## Features
 
@@ -42,9 +42,9 @@ You can access these commands through:
 ## Development
 
 1. Clone this repository
-2. Run `npm install`
+2. Run `npm install` and `npm run compile`
 3. Open the project in VS Code
-4. Press F5 to start debugging
+5. Press F5 to start debugging
 
 ## License
 
